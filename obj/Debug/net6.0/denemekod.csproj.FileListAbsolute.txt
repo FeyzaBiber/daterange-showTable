@@ -1,0 +1,15 @@
+C:\Users\Lejyoner\Desktop\denemekod\bin\Debug\net6.0\denemekod.exe
+C:\Users\Lejyoner\Desktop\denemekod\bin\Debug\net6.0\denemekod.deps.json
+C:\Users\Lejyoner\Desktop\denemekod\bin\Debug\net6.0\denemekod.runtimeconfig.json
+C:\Users\Lejyoner\Desktop\denemekod\bin\Debug\net6.0\denemekod.dll
+C:\Users\Lejyoner\Desktop\denemekod\bin\Debug\net6.0\denemekod.pdb
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.csproj.AssemblyReference.cache
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.AssemblyInfoInputs.cache
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.AssemblyInfo.cs
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.csproj.CoreCompileInputs.cache
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.dll
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\ref\denemekod.dll
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.pdb
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\denemekod.genruntimeconfig.cache
+C:\Users\Lejyoner\Desktop\denemekod\obj\Debug\net6.0\refint\denemekod.dll

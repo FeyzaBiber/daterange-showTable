@@ -1,0 +1,10 @@
+        Console.WriteLine("Enter number of days to show the table: (Press Enter to Save) ");
+        string input = Console.ReadLine().ToString();
+        int number;
+        while (!Int32.TryParse(input, out number))
+        {
+            Console.WriteLine("Enter a NUMBER of days: (Press Enter to Save) ");
+            input = Console.ReadLine();
+        }
+        Console.WriteLine(number.ToString() + "  --- You pressed ");
+        Console.WriteLine();
